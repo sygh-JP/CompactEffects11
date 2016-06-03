@@ -2,7 +2,7 @@
 Compact Effects11 by sygh.
 
 This project is a library forked from the sample "Effects11" in legacy DirectX SDK (June 2010).
-Currently the *original* and *official* Effects11 has been hosted and maintained as [FX11](https://github.com/Microsoft/FX11) by Microsoft, but Compact Effects11 can remove the dependency on "D3DCompiler_xx.dll".
+Currently the *original* and *official* Effects11 has been hosted and maintained as [FX11](https://github.com/Microsoft/FX11) by Microsoft, but Compact Effects11 can remove the dependency on the runtime "D3DCompiler_xx.dll" with some limitations.
 
 ## Development Environment (開発環境)
 * Microsoft Visual Studio 2012 Update 5, 2013 Update 5, and 2015 Update 2
